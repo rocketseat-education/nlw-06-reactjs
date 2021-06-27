@@ -22,8 +22,8 @@ Olá me chamo felipe e durante os  dias 20 a 27 estive participando do NLW e fiz
 algumas implementações nesse projeto.
 
 <ol>
-  <li>item 1</li>
-  <li>item 2</li>
+  <li>Tema Dark</li>
+  <li>Responsividade</li>
 
 </ol>
 
