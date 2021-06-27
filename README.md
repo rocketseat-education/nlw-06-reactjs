@@ -16,6 +16,22 @@
 
 <br>
 
+## 🧪 Mudanças 
+
+Olá me chamo felipe e durante os  dias 20 a 27 estive participando do NLW e fiz
+algumas implementações nesse projeto.
+
+<ol>
+  <li>item 1</li>
+  <li>item 2</li>
+
+</ol>
+
+
+
+
+
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -66,4 +82,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
+Feito com 💜 by Rocketseat and Felipe  👋🏻 [Participe da comunidade da Rocketseat](https://discord.gg/gKUVrzrPrU)
+
