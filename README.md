@@ -16,7 +16,7 @@
 
 <br>
 
-## 🧪 Mudanças 
+##  👨‍💻 Mudanças 
 
 Olá me chamo felipe e durante os  dias 20 a 27 estive participando do NLW e fiz
 algumas implementações nesse projeto.
@@ -68,7 +68,7 @@ Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
 
-## 🔖 Layout
+## 🧛‍♀️ Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
