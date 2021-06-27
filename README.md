@@ -1,4 +1,4 @@
-## 🧑‍🚀  Projeto NLW - felipegfsouza
+
 <p align="center">
   <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
@@ -9,7 +9,9 @@
 
 <br>
 
-##  👨‍💻 Mudanças 
+## 🧑‍🚀  Projeto NLW - felipegfsouza
+
+####  👨‍💻 Mudanças 
 
 Olá me chamo felipe e durante os  dias 20 a 27 estive participando do NLW e fiz
 algumas implementações nesse projeto.
